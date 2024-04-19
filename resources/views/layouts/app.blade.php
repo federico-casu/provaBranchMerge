@@ -9,6 +9,7 @@
     @vite('resources/js/app.js')
 </head>
 <body>
+    <p>Alessio</p>
     @yield('content')
 </body>
 </html>

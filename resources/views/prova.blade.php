@@ -1,8 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'Home')
+@section('title', 'Prova')
 
 @section('content')
     <h1 class="text-danger">Ciao Mondo</h1>
-    <h2 class="text-center text-primary">Sono Pierluigi</h2>
+    <p>Prova mattia branch 2</p>
+
 @endsection
