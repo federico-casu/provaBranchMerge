@@ -10,7 +10,6 @@
 </head>
 <body>
     <p>Alessio</p>
-    <p>Pirrotta</p>
     @yield('content')
 </body>
 </html>
