@@ -7,4 +7,5 @@
     <h2 class="text-center text-primary">Sono Pierluigi</h2>
 
     <p>Ciao dal nuovo dev</p>
+    <p>nuovo paragrafo</p>
 @endsection
